@@ -8,9 +8,17 @@ A **simple and stylish** music player built with **Python, Kivy, and Pygame** th
 [Click here to download](https://drive.google.com/drive/folders/1FB86LHkR6WuY6UTrduS0_jIvVobk6io2?usp=sharing)  
 
 ### 🔧 How to Run  
+
 1. **Download & Extract** the `Music Player` folder.  
 2. Open the folder and **DO NOT move files** outside.  
-3. Double-click on **`main.exe`** to launch the music player.  
+3. Double-click on **`main.exe`** to launch the music player.
+   
+
+## 🔑 Firebase Authentication  
+This project includes **Firebase Authentication**, so you must **Sign Up** or **Login** to access the music player.  
+- **First-time users** → Click on **Sign Up** and create an account.  
+- **Returning users** → Simply enter your credentials and **Login**.
+  
 
 ## 📂 Folder Structure  
 ```
@@ -20,6 +28,7 @@ A **simple and stylish** music player built with **Python, Kivy, and Pygame** th
 │ ├── 🎨 other assets
 ├── 📄 main.exe (Application file)
 ```
+
 ## 🎙 Voice Assistant Commands  
 You can control the music player using **J.A.R.V.I.S** with these commands:  
 
